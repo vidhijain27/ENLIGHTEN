@@ -6,7 +6,8 @@ import { API } from '../../service/api';
 
 const Component = styled(Box) `
     width: 400px;
-    margin: auto;
+    margin-top: auto;
+    margin-left: 150px;
     box-shadow: 5px 2px 5px 2px rgb(0 0 0 / 50%);
 `
 
